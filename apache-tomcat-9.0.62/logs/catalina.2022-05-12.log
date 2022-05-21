@@ -1,0 +1,131 @@
+12-May-2022 04:35:28.294 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.62
+12-May-2022 04:35:28.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:34:15 UTC
+12-May-2022 04:35:28.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.62.0
+12-May-2022 04:35:28.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+12-May-2022 04:35:28.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.109-104.500.amzn2.x86_64
+12-May-2022 04:35:28.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-May-2022 04:35:28.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.312.b07-1.amzn2.0.2.x86_64/jre
+12-May-2022 04:35:28.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_312-b07
+12-May-2022 04:35:28.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+12-May-2022 04:35:28.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 04:35:28.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 04:35:28.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ec2-user/jaya/apache-tomcat-9.0.62/conf/logging.properties
+12-May-2022 04:35:28.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-May-2022 04:35:28.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-May-2022 04:35:28.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-May-2022 04:35:28.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-May-2022 04:35:28.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-May-2022 04:35:28.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 04:35:28.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 04:35:28.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ec2-user/jaya/apache-tomcat-9.0.62/temp
+12-May-2022 04:35:28.310 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+12-May-2022 04:35:29.178 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:35:29.261 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1359] milliseconds
+12-May-2022 04:35:29.339 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-May-2022 04:35:29.345 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.62]
+12-May-2022 04:35:29.364 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/ROOT]
+12-May-2022 04:35:29.839 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/ROOT] has finished in [475] ms
+12-May-2022 04:35:29.845 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/docs]
+12-May-2022 04:35:29.888 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/docs] has finished in [43] ms
+12-May-2022 04:35:29.893 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/examples]
+12-May-2022 04:35:30.354 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/examples] has finished in [461] ms
+12-May-2022 04:35:30.357 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/host-manager]
+12-May-2022 04:35:30.409 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/host-manager] has finished in [52] ms
+12-May-2022 04:35:30.409 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/manager]
+12-May-2022 04:35:30.449 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/manager] has finished in [40] ms
+12-May-2022 04:35:30.462 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:35:30.493 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1228] milliseconds
+12-May-2022 04:43:40.538 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/host-manager]
+12-May-2022 04:43:40.562 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/host-manager]
+12-May-2022 04:43:40.606 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/host-manager] has finished in [44] ms
+12-May-2022 04:44:20.612 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/manager]
+12-May-2022 04:44:20.623 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/manager]
+12-May-2022 04:44:20.662 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/manager] has finished in [39] ms
+12-May-2022 04:44:34.580 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-May-2022 04:44:34.580 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:44:34.588 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-May-2022 04:44:34.649 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:44:34.660 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:44:43.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.62
+12-May-2022 04:44:43.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:34:15 UTC
+12-May-2022 04:44:43.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.62.0
+12-May-2022 04:44:43.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+12-May-2022 04:44:43.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.109-104.500.amzn2.x86_64
+12-May-2022 04:44:43.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-May-2022 04:44:43.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.312.b07-1.amzn2.0.2.x86_64/jre
+12-May-2022 04:44:43.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_312-b07
+12-May-2022 04:44:43.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+12-May-2022 04:44:43.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 04:44:43.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 04:44:43.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ec2-user/jaya/apache-tomcat-9.0.62/conf/logging.properties
+12-May-2022 04:44:43.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-May-2022 04:44:43.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-May-2022 04:44:43.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-May-2022 04:44:43.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-May-2022 04:44:43.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-May-2022 04:44:43.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 04:44:43.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 04:44:43.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ec2-user/jaya/apache-tomcat-9.0.62/temp
+12-May-2022 04:44:43.241 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+12-May-2022 04:44:43.942 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:44:43.993 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1117] milliseconds
+12-May-2022 04:44:44.062 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-May-2022 04:44:44.062 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.62]
+12-May-2022 04:44:44.081 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/ROOT]
+12-May-2022 04:44:44.578 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/ROOT] has finished in [496] ms
+12-May-2022 04:44:44.578 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/docs]
+12-May-2022 04:44:44.618 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/docs] has finished in [39] ms
+12-May-2022 04:44:44.621 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/examples]
+12-May-2022 04:44:45.114 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/examples] has finished in [493] ms
+12-May-2022 04:44:45.115 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/host-manager]
+12-May-2022 04:44:45.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/host-manager] has finished in [55] ms
+12-May-2022 04:44:45.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/manager]
+12-May-2022 04:44:45.221 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/manager] has finished in [51] ms
+12-May-2022 04:44:45.233 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:44:45.274 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1280] milliseconds
+12-May-2022 04:49:25.268 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/ec2-user/jaya/apache-tomcat-9.0.62/conf/tomcat-users.xml]
+12-May-2022 04:52:03.069 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:52:03.091 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-May-2022 04:52:03.244 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-May-2022 04:52:03.260 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-May-2022 05:54:57.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.62
+12-May-2022 05:54:57.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:34:15 UTC
+12-May-2022 05:54:57.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.62.0
+12-May-2022 05:54:57.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+12-May-2022 05:54:57.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.112-108.499.amzn2.x86_64
+12-May-2022 05:54:57.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-May-2022 05:54:57.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.312.b07-1.amzn2.0.2.x86_64/jre
+12-May-2022 05:54:57.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_312-b07
+12-May-2022 05:54:57.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+12-May-2022 05:54:57.016 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 05:54:57.016 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 05:54:57.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ec2-user/jaya/apache-tomcat-9.0.62/conf/logging.properties
+12-May-2022 05:54:57.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-May-2022 05:54:57.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-May-2022 05:54:57.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-May-2022 05:54:57.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-May-2022 05:54:57.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-May-2022 05:54:57.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 05:54:57.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ec2-user/jaya/apache-tomcat-9.0.62
+12-May-2022 05:54:57.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ec2-user/jaya/apache-tomcat-9.0.62/temp
+12-May-2022 05:54:57.040 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+12-May-2022 05:54:58.045 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-May-2022 05:54:58.104 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1521] milliseconds
+12-May-2022 05:54:58.222 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-May-2022 05:54:58.224 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.62]
+12-May-2022 05:54:58.243 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/ROOT]
+12-May-2022 05:54:58.812 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/ROOT] has finished in [563] ms
+12-May-2022 05:54:58.813 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/docs]
+12-May-2022 05:54:58.861 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/docs] has finished in [48] ms
+12-May-2022 05:54:58.864 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/examples]
+12-May-2022 05:54:59.537 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/examples] has finished in [673] ms
+12-May-2022 05:54:59.540 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/host-manager]
+12-May-2022 05:54:59.598 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/host-manager] has finished in [58] ms
+12-May-2022 05:54:59.600 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/manager]
+12-May-2022 05:54:59.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/jaya/apache-tomcat-9.0.62/webapps/manager] has finished in [96] ms
+12-May-2022 05:54:59.714 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-May-2022 05:54:59.763 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1657] milliseconds
+12-May-2022 05:57:51.592 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-May-2022 05:57:51.622 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-May-2022 05:57:51.740 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-May-2022 05:57:51.753 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
